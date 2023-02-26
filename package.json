@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "crc-32": "^1.2.2",
+    "eslint": "^8.34.0",
+    "lodash": "^4.17.21"
+  }
+}
